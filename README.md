@@ -1,2 +1,4 @@
-# Cos-202-practicals
-It contains python code
+Name: Onujiogu jessica chineyenwa
+Matric Number: 241204011
+Department: ICT
+  
